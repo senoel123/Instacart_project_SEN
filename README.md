@@ -5,7 +5,7 @@ Instacart is an American retail company that operates a grocery delivery and pic
 
 ---
 
-<img src="https://www.instacart.com/image-server/521x321/filters:fill(FFF,true):format(webp)/www.instacart.com/assets/homepage/same_day_delivery-a00a9a59cbdfc41e7449cbdd04c12d27303284bef1a8fe957ec2a0112a70d7e7.jpg" align="right" width="200" height="200"/> 
+<img src="https://www.instacart.com/image-server/521x321/filters:fill(FFF,true):format(webp)/www.instacart.com/assets/homepage/same_day_delivery-a00a9a59cbdfc41e7449cbdd04c12d27303284bef1a8fe957ec2a0112a70d7e7.jpg" align="right" width="200" height="150"/> 
 
 **Project**
 
@@ -38,7 +38,7 @@ First, perform an initial and exploratory analysis of some of their data to deri
   ---
   
   **Stake Holders**
-  <img src="https://www.instacart.com/image-server/521x321/filters:fill(FFF,true):format(webp)/www.instacart.com/assets/homepage/how_it_works-163dcc1c8f91c63d7b0bdb648b5370a89267d54c8cb90bd858495395b8a9e5f3.jpg" align="right" width="200" height="200"/>
+  <img src="https://contactdetailswala.in/wp-content/uploads/2021/05/instacart-1.jpeg" align="right" width="150" height="200"/>
 - Vice President of Marketing: **“We’re always looking into improving our targeting for ad campaigns.”**
 - Senior Vice President of Sales: **“We need to know what part of our offering has the lowest market share and why. Based on this input, we could improve this sector and boost sales.”**
 - Instacart Customer: **“I want to receive ads, promotions, and recommendations that are relevant to the products I order regularly.”**
