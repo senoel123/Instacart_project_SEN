@@ -43,12 +43,7 @@ First, perform an initial and exploratory analysis of some of their data to deri
 - Senior Vice President of Sales: **“We need to know what part of our offering has the lowest market share and why. Based on this input, we could improve this sector and boost sales.”**
 - Instacart Customer: **“I want to receive ads, promotions, and recommendations that are relevant to the products I order regularly.”**
 
----
 
-**Datasets**
-
-- “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 12-05-22
-- [Data dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
  
   
